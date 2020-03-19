@@ -7,7 +7,7 @@
 - [Reactive Window parameters](https://blog.usejournal.com/reactive-window-parameters-in-vuejs-fc5de75d7ab5)
 - [Structuring Vuex modules for speed and durability](https://medium.com/js-dojo/structuring-vuex-modules-for-relationships-speed-and-durability-de25f7403643)
 - [State Normalization with Vuex](https://markus.oberlehner.net/blog/make-your-vuex-state-flat-state-normalization-with-vuex)
-
+- [Vue composable generic elements](https://pikax.me/vue-composable/)
 
 ## Nuxt
 
