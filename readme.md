@@ -17,7 +17,7 @@
 - [Increase build time](https://www.voorhoede.nl/en/blog/10x-faster-nuxt-builds-on-netlify/)
 - [Nuxt Hooks and Lifecycle](https://dev.to/lilianaziolek/understanding-nuxt-vue-hooks-and-lifecycle-part-3-8fo)
 - [Multiple ENV files in Nuxt](https://itnext.io/using-multiple-env-files-in-nuxt-15703d7535f3)
-- [Working with sitemaps](https://medium.com/better-programming/nuxt-js-working-with-sitemaps-518ee7d657c8
+- [Working with sitemaps](https://medium.com/better-programming/nuxt-js-working-with-sitemaps-518ee7d657c8)
 - [Set up Nuxt with ESLint and Prettier in VSCode](https://medium.com/@gogl.alex/how-to-properly-set-up-eslint-with-prettier-for-vue-or-nuxt-in-vscode-e42532099a9c)
 
 - [https://github.com/vinayakkulkarni/nuxt-ava-e2e-unit-testing/](https://github.com/vinayakkulkarni/nuxt-ava-e2e-unit-testing/blob/master/nuxt.config.js?fbclid=IwAR2QU7BoUEAqsZbu4J3D4RL9a6wnaEqpZq_WWcZQISwWeaMLNTgK7DjGmlI)
