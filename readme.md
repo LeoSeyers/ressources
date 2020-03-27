@@ -8,6 +8,7 @@
 - [Structuring Vuex modules for speed and durability](https://medium.com/js-dojo/structuring-vuex-modules-for-relationships-speed-and-durability-de25f7403643)
 - [State Normalization with Vuex](https://markus.oberlehner.net/blog/make-your-vuex-state-flat-state-normalization-with-vuex)
 - [Vue composable generic elements](https://pikax.me/vue-composable/)
+- [Vue Async components](https://itnext.io/vue-async-components-props-and-testing-cbcb1e5f89a5)
 
 ## Nuxt
 
