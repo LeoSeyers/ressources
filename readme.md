@@ -30,6 +30,7 @@
 - [Build Vue components in a Wordpress theme](https://css-tricks.com/how-to-build-vue-components-in-a-wordpress-theme/)
 - [Speed up REST Api](https://medium.com/@lodewijkm/our-headless-wordpress-journey-part-i-speeding-up-the-rest-api-aef76a898418)
 - [Verify nonce in REST API](https://wordpress.stackexchange.com/questions/323637/verify-nonce-in-rest-api)
+- [Create gutenberg block](https://www.youtube.com/watch?v=c-QPx264kcM)(french, REACT)
 
 ## Testing
 
