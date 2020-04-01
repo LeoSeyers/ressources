@@ -9,6 +9,8 @@
 - [State Normalization with Vuex](https://markus.oberlehner.net/blog/make-your-vuex-state-flat-state-normalization-with-vuex)
 - [Vue composable generic elements](https://pikax.me/vue-composable/)
 - [Vue Async components](https://itnext.io/vue-async-components-props-and-testing-cbcb1e5f89a5)
+- [Vue Headless components](https://dev.to/fdietz/vue-js-headless-component-10ag)
+- [Vue Unit Testing](https://testdriven.io/blog/vue-unit-testing)
 
 ## Nuxt
 
@@ -32,7 +34,5 @@
 - [Verify nonce in REST API](https://wordpress.stackexchange.com/questions/323637/verify-nonce-in-rest-api)
 - [Create gutenberg block](https://www.youtube.com/watch?v=c-QPx264kcM)(french, REACT)
 
-## Testing
 
-- [Vue Unit Testing](https://testdriven.io/blog/vue-unit-testing)
 
