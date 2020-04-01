@@ -19,6 +19,7 @@
 - [SSR and external dependencies](https://itnext.io/vue-ssr-and-external-dependencies-bce84fbcbe6d)
 - [Productivity : 20 Nuxt modules](https://www.telerik.com/blogs/20-nuxt-modules-with-tips-to-increase-productivity-build-web-apps-faster) 
 - [Increase build time](https://www.voorhoede.nl/en/blog/10x-faster-nuxt-builds-on-netlify/)
+- [Cut build time with Context payload](https://markus.oberlehner.net/blog/cut-your-nuxt-generate-build-time-in-half-with-context-payload)
 - [Nuxt Hooks and Lifecycle](https://dev.to/lilianaziolek/understanding-nuxt-vue-hooks-and-lifecycle-part-3-8fo)
 - [Multiple ENV files in Nuxt](https://itnext.io/using-multiple-env-files-in-nuxt-15703d7535f3)
 - [Working with sitemaps](https://medium.com/better-programming/nuxt-js-working-with-sitemaps-518ee7d657c8)
