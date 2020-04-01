@@ -11,6 +11,7 @@
 - [Vue Async components](https://itnext.io/vue-async-components-props-and-testing-cbcb1e5f89a5)
 - [Vue Headless components](https://dev.to/fdietz/vue-js-headless-component-10ag)
 - [Vue Unit Testing](https://testdriven.io/blog/vue-unit-testing)
+- [Vue Fonctional components](https://dev.to/fdietz/vue-js-functional-components-2495)
 
 ## Nuxt
 
