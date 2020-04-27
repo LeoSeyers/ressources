@@ -13,6 +13,8 @@
 - [Vue Unit Testing](https://testdriven.io/blog/vue-unit-testing)
 - [Vue Fonctional components](https://dev.to/fdietz/vue-js-functional-components-2495)
 - [Vue Components into NPM Package](https://www.voorhoede.nl/en/blog/turning-vue-components-into-reusable-npm-packages/)
+- [Vue Hydration Error](https://blog.lichter.io/posts/vue-hydration-error/)
+- [State management without Vuex](https://michaelnthiessen.com/state-management-without-vuex/)
 
 ## Nuxt
 
