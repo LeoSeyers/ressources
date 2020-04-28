@@ -20,6 +20,7 @@
 
 - [How to load third party scripts](https://vueschool.io/articles/vuejs-tutorials/how-to-load-third-party-scripts-in-nuxt-js) (vue-meta)
 - [SSR and external dependencies](https://itnext.io/vue-ssr-and-external-dependencies-bce84fbcbe6d)
+- [Load strategies for third party plugins](https://deltener.com/blog/nuxt-third-party-code-is-poison/)
 - [Productivity : 20 Nuxt modules](https://www.telerik.com/blogs/20-nuxt-modules-with-tips-to-increase-productivity-build-web-apps-faster) 
 - [Increase build time](https://www.voorhoede.nl/en/blog/10x-faster-nuxt-builds-on-netlify/)
 - [Cut build time with Context payload](https://markus.oberlehner.net/blog/cut-your-nuxt-generate-build-time-in-half-with-context-payload)
@@ -27,7 +28,6 @@
 - [Multiple ENV files in Nuxt](https://itnext.io/using-multiple-env-files-in-nuxt-15703d7535f3)
 - [Working with sitemaps](https://medium.com/better-programming/nuxt-js-working-with-sitemaps-518ee7d657c8)
 - [Set up Nuxt with ESLint and Prettier in VSCode](https://medium.com/@gogl.alex/how-to-properly-set-up-eslint-with-prettier-for-vue-or-nuxt-in-vscode-e42532099a9c)
-
 - [https://github.com/vinayakkulkarni/nuxt-ava-e2e-unit-testing/](https://github.com/vinayakkulkarni/nuxt-ava-e2e-unit-testing/blob/master/nuxt.config.js?fbclid=IwAR2QU7BoUEAqsZbu4J3D4RL9a6wnaEqpZq_WWcZQISwWeaMLNTgK7DjGmlI)
 - [https://github.com/mnmxmx/threejs-nuxt-sample](https://github.com/mnmxmx/threejs-nuxt-sample)
 
