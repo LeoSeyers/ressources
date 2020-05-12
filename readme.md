@@ -1,6 +1,6 @@
-# Vue Ressources
+# Ressources
 
-> A personal collection of articles, tutorials, libraries and other documentations about Vue and its ecosystem.
+> A personal collection of various ressources on Frontend dev
 
 ## Vue
 
@@ -38,6 +38,9 @@
 - [Speed up REST Api](https://medium.com/@lodewijkm/our-headless-wordpress-journey-part-i-speeding-up-the-rest-api-aef76a898418)
 - [Verify nonce in REST API](https://wordpress.stackexchange.com/questions/323637/verify-nonce-in-rest-api)
 - [Create gutenberg block](https://www.youtube.com/watch?v=c-QPx264kcM)(french, REACT)
+
+## Performance
+- [Idle until Urgent](https://philipwalton.com/articles/idle-until-urgent/)
 
 
 
