@@ -30,7 +30,7 @@
 - [Set up Nuxt with ESLint and Prettier in VSCode](https://medium.com/@gogl.alex/how-to-properly-set-up-eslint-with-prettier-for-vue-or-nuxt-in-vscode-e42532099a9c)
 - [https://github.com/vinayakkulkarni/nuxt-ava-e2e-unit-testing/](https://github.com/vinayakkulkarni/nuxt-ava-e2e-unit-testing/blob/master/nuxt.config.js?fbclid=IwAR2QU7BoUEAqsZbu4J3D4RL9a6wnaEqpZq_WWcZQISwWeaMLNTgK7DjGmlI)
 - [https://github.com/mnmxmx/threejs-nuxt-sample](https://github.com/mnmxmx/threejs-nuxt-sample)
-
+- [Consuming APIs using Repository pattern](https://dev.to/kaperskyguru/consuming-apis-in-nuxt-using-the-repository-pattern-5f1l)
 
 ## Wordpress
 
