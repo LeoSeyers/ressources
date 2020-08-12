@@ -38,6 +38,7 @@
 - [Speed up REST Api](https://medium.com/@lodewijkm/our-headless-wordpress-journey-part-i-speeding-up-the-rest-api-aef76a898418)
 - [Verify nonce in REST API](https://wordpress.stackexchange.com/questions/323637/verify-nonce-in-rest-api)
 - [Create gutenberg block](https://www.youtube.com/watch?v=c-QPx264kcM)(french, REACT)
+- [Frontend Editing Gutenberg Block](https://webdevstudios.com/2020/08/11/frontend-editing-gutenberg-blocks-2/)
 
 ## Performance
 - [Idle until Urgent](https://philipwalton.com/articles/idle-until-urgent/)
