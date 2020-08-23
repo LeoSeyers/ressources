@@ -15,6 +15,7 @@
 - [Vue Components into NPM Package](https://www.voorhoede.nl/en/blog/turning-vue-components-into-reusable-npm-packages/)
 - [Vue Hydration Error](https://blog.lichter.io/posts/vue-hydration-error/)
 - [State management without Vuex](https://michaelnthiessen.com/state-management-without-vuex/)
+- [Vue Code Coverage with Cypress](https://vuejsdevelopers.com/2020/07/20/code-coverage-vue-cypress)
 
 ## Nuxt
 
